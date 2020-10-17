@@ -1,0 +1,3 @@
+zalgeller-smooth.tex
+pp.sty
+pics/pxyz.eps
